@@ -6,3 +6,5 @@ lazybootsafe，自用跨平台安全工具，在linux、windows、ios、android�
 目前已完成android端，web端（在线检测），部分ios代码。
 
 项目进度十分缓慢，工作原因。
+
+项目已删除，已申请专利
